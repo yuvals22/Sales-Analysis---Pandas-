@@ -1,0 +1,2 @@
+# Sales-Analysis---Pandas-
+The project is about large sales dataframe fully diagnosed using the Python Pandas library.  This project started by clean up the dataset, then move to modify columns according to the demands, and than data exploration section. In this section we explore 5 high level business questions related to our data: What was the best month for sales? How much was earned that month? What city sold the most product? What time should we display advertisemens to maximize the likelihood of customer’s buying…  186850 rows / 6 columns
