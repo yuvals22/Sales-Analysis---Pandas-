@@ -14,8 +14,8 @@ Excel
 ipynb
 csv
 
-**Start by cleaning our data. Tasks during this section include:
-**
+**Start by cleaning our data. Tasks during this section include:**
+
 - Drop NaN values from DataFrame
 - Removing rows based on a condition
 - Change the type of columns (to_numeric, to_datetime, astype)
