@@ -1,3 +1,17 @@
+**Language**
+python
+
+**packages**
+pandas
+numpy
+plotly
+
+
+**Files**
+Excel
+ipynb
+csv
+
 Start by cleaning our data. Tasks during this section include:
 
 - Drop NaN values from DataFrame
